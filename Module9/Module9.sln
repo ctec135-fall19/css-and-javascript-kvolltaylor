@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithJavaScript", "Wo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionState", "SessionState\SessionState.csproj", "{8679ACC7-CD83-4F45-A0DA-8239CF7D3671}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextWebService", "TextWebService\TextWebService.csproj", "{5FA4B458-3BCA-405C-B01A-5A280954987C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextWebServiceClient", "TextWebServiceClient\TextWebServiceClient.csproj", "{CAD8AB93-8D21-4AA0-9752-B18E91E5299A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{8679ACC7-CD83-4F45-A0DA-8239CF7D3671}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8679ACC7-CD83-4F45-A0DA-8239CF7D3671}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8679ACC7-CD83-4F45-A0DA-8239CF7D3671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FA4B458-3BCA-405C-B01A-5A280954987C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA4B458-3BCA-405C-B01A-5A280954987C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA4B458-3BCA-405C-B01A-5A280954987C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA4B458-3BCA-405C-B01A-5A280954987C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD8AB93-8D21-4AA0-9752-B18E91E5299A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD8AB93-8D21-4AA0-9752-B18E91E5299A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD8AB93-8D21-4AA0-9752-B18E91E5299A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD8AB93-8D21-4AA0-9752-B18E91E5299A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
